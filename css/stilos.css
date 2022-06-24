@@ -5,6 +5,16 @@ body
     font-family: "Arial";
     font-size: 15px;
 }
+# cabecera
+{
+    background: rgba(231, 170, 255, 0.226);
+    color: wheat;
+    font-weight:bold ;
+    margin: auto;
+    padding: 0.5em;
+}
+
+
 # container
 {
     color: dimgray;
@@ -20,4 +30,8 @@ body
     color: crimson;
     font-size: 15px;
 
+}
+#post
+{
+    padding: 1em;
 }
