@@ -1,7 +1,11 @@
 cd ..
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color:red;
+>>>>>>> eaf7071 (modifique la cabecera y el color del texto)
     text-align: center;
     font-family: "Arial";
     font-size: 15px;
