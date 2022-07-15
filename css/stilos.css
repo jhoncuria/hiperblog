@@ -1,7 +1,7 @@
 cd ..
 body
 {
-    color: blue;
+    color: white;
     text-align: center;
     font-family: "Arial";
     font-size: 15px;
@@ -14,6 +14,7 @@ body
     font-weight:bold;
     margin: auto;
     padding: 0.5em;
+    text-align: center;
 }
 # cabecera #tagline
 {
@@ -43,4 +44,11 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
 }
