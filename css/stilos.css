@@ -5,7 +5,11 @@ body
     color: #333;
 =======
     color: white;
+<<<<<<< HEAD
 >>>>>>> footer
+=======
+>>>>>>> bc02024 (cabecera footer terminado)
+>>>>>>> 7429dd3 (es un problema)
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -31,7 +35,11 @@ body
     font-size: 0.8em;
     font-weight:bold ;
     margin: auto;
+<<<<<<< HEAD
 >>>>>>> footer
+=======
+>>>>>>> bc02024 (cabecera footer terminado)
+>>>>>>> 7429dd3 (es un problema)
     padding: 0.5em;
 }
 
