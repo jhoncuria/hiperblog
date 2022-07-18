@@ -1,15 +1,8 @@
 body
 {
-<<<<<<< HEAD
     background: #1e1f24;
-    color: #333;
-=======
     color: white;
-<<<<<<< HEAD
->>>>>>> footer
-=======
->>>>>>> bc02024 (cabecera footer terminado)
->>>>>>> 7429dd3 (es un problema)
+
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -18,28 +11,20 @@ body
 }
 #cabecera
 {
-    background: #34488b; 
+    background: #37488b; 
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
-    font-weight:bold;
-<<<<<<< HEAD
+    font-weight: bold;
     margin: 0;
-=======
-    margin: auto;
     padding: 0.5em;
-    text-align: center;
+    
 }
 # cabecera #tagline
 {
     color: wheat;
     font-size: 0.8em;
-    font-weight:bold ;
+    font-weight:bold;
     margin: auto;
-<<<<<<< HEAD
->>>>>>> footer
-=======
->>>>>>> bc02024 (cabecera footer terminado)
->>>>>>> 7429dd3 (es un problema)
     padding: 0.5em;
 }
 
@@ -47,6 +32,7 @@ body
 {
     width: 20px
     vertical-align: middle
+    
 }
 
 #cabecera #tagline
@@ -82,7 +68,7 @@ body
 
 #footer
 {
-    background: #777;
+    background: #37488b;
     color: white;
     text-align: center;
 }
